@@ -1,5 +1,5 @@
 # 🖼️ Thumbnail HTTP Server
-sample test
+
 A Python HTTP file server with image thumbnails and a modern file browsing interface. Perfect for viewing files from other devices on your network!
 
 ## Features
