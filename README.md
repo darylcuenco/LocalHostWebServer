@@ -1,7 +1,7 @@
 # 🖼️ Thumbnail HTTP Server
 
 A Python HTTP file server with image thumbnails and a modern file browsing interface. Perfect for viewing files from other devices on your network!
-
+test
 ## Features
 
 ✨ **Image Thumbnails** - Auto-generates previews for image files (PNG, JPG, GIF, etc.)  
